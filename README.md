@@ -2,7 +2,7 @@
 Intrusion Detection System
 
 ## Screenshots
-![alt text](https://github.com/ThibaMahlezana/Intrusion-Detection-System/blob/main/screenshots/System%20Capture%201.PNG | width=600)
+<img src="https://github.com/ThibaMahlezana/Intrusion-Detection-System/blob/main/screenshots/System%20Capture%201.PNG" width="600">
 
 ![alt text](https://github.com/ThibaMahlezana/Intrusion-Detection-System/blob/main/screenshots/System%20Capture%202.PNG | width=600)
 
