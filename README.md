@@ -3,6 +3,10 @@
 ## About the Project
 This intrusion detection application is designed to monitor live camera feeds for unauthorized access or trespassing. Utilizing C++ with OpenCV and NCNN for real-time image processing, and ImGui for a user-friendly interface, the application allows users to select specific areas of interest. If a person is detected within these areas, an alarm is triggered to alert users, enhancing security measures.
 
+> [!WARNING]
+> This application has been tested only on Windows so far but can be used for cross-platform development.
+
+
 ## Motivation
 The motivation behind this project stems from a growing concern about crime rates and the need for improved security measures. I believe that AI-driven computer vision systems can play a crucial role in monitoring homes and businesses, enabling quicker responses to security threats. By leveraging technology, we can create a safer environment for everyone.
 
